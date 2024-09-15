@@ -21,4 +21,4 @@ To install the required Python packages for this project, please follow these st
 
 ## Image Demos:
 ### capstone-demo.py:
-![capstone-demo-image](https://github.com/user-attachments/assets/d7e7726d-a89d-4c55-9183-ea8138ea369e)
+![capstone-demo-image](https://github.com/user-attachments/assets/a9c4bedc-63ea-4553-9560-2fd4c1b49d25)
