@@ -129,8 +129,6 @@ def main():
     
     raw_shellcode = assemble_code_from_self(CODE)
     disasm_list = disassemble_shellcode(raw_shellcode)
-
-    print("")
     
     if(bad_bytes) is not None:
         if(csv_file_path) is None:
@@ -145,8 +143,6 @@ def main():
             print(f"\nThere was an error saving CSV file to \"{full_csv_path}\"!")
             if(bad_bytes) is not None:
                 print("\nUnable to detect bad bytes without CSV! Displaying disassembly only!")
-
-    print("")
 
     if(retSaveCSV == 0 and (bad_bytes) is not None and (full_csv_path) is not None):
         try:
