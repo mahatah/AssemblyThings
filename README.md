@@ -1,5 +1,5 @@
 # AssemblyThings
-Assembly things I've made to help do assembly stuff...
+Assembly things I've made to help do assembly things...
 
 ## Setup
 To install the required Python packages for this project, please follow these steps:
